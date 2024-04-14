@@ -17,7 +17,7 @@ Collaborated with <a href="https://github.com/elizabeth-walters">@elizabeth-walt
 ## Deque Implementation
 Creates a linked list implementation of a deque.  Assumes that only integers will be placed on the deque.  Written in C++.
 
-Completed in CS 251 Data Structure (2nd Year Fall) | Project 3
+Completed in CS 251 Data Structures (2nd Year Fall) | Project 3
 
 ## Memory Match
 Allows the user to play the Memory Match game on a 4x4 grid of cards.  Written in C++ with OpenGL.
@@ -33,7 +33,7 @@ Completed in CS 151 Principles of Computer Science I (1st Year Fall) | Homeworks
 ## Stack Implementation
 Implements a stack.  Checks if all delimiters are properly opened and closed within a given file.  Written in C++.
 
-Completed in CS 251 Data Structure (2nd Year Fall) | Project 2
+Completed in CS 251 Data Structures (2nd Year Fall) | Project 2
 
 ## Sudoku Puzzle
 Allows a user to play Sudoku.  Makes use of a Sudoku Generator/Solver provided by the professor.  Written in Java.
