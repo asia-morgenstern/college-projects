@@ -12,7 +12,7 @@ Completed in CS 251 Data Structures (2nd Year Fall) | Project 4
 Allows the user to draw a boundary and an inner object.  Object will translate and rotate inside the boundary bouncing and reflecting against the boundary.  Written in C++ with OpenGL.
 
 Completed in CS 441 Computer Graphics (3rd Year Spring) | Project 2 <br/>
-Collaborated with @elizabeth-walters
+Collaborated with <a href="https://github.com/elizabeth-walters">@elizabeth-walters</a>
 
 ## Deque Implementation
 Creates a linked list implementation of a deque.  Assumes that only integers will be placed on the deque.  Written in C++.
@@ -23,7 +23,7 @@ Completed in CS 251 Data Structure (2nd Year Fall) | Project 3
 Allows the user to play the Memory Match game on a 4x4 grid of cards.  Written in C++ with OpenGL.
 
 Completed in CS 441 Computer Graphics (3rd Year Spring) | Project 1 <br/>
-Collaborated with @elizabeth-walters
+Collaborated with <a href="https://github.com/elizabeth-walters">@elizabeth-walters</a>
 
 ## Poker Solitaire
 Allows the user to play Poker Solitaire.  Written in Java.
