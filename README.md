@@ -11,8 +11,7 @@ Completed in CS 251 Data Structures (2nd Year Fall) | Project 4
 ## Bouncy Bouncy
 Allows the user to draw a boundary and an inner object.  Object will translate and rotate inside the boundary bouncing and reflecting against the boundary.  Written in C++ with OpenGL.
 
-Completed in CS 441 Computer Graphics (3rd Year Spring) | Project 2
-
+Completed in CS 441 Computer Graphics (3rd Year Spring) | Project 2 <br/>
 Collaborated with @elizabeth-walters
 
 ## Deque Implementation
@@ -23,8 +22,7 @@ Completed in CS 251 Data Structure (2nd Year Fall) | Project 3
 ## Memory Match
 Allows the user to play the Memory Match game on a 4x4 grid of cards.  Written in C++ with OpenGL.
 
-Completed in CS 441 Computer Graphics (3rd Year Spring) | Project 1
-
+Completed in CS 441 Computer Graphics (3rd Year Spring) | Project 1 <br/>
 Collaborated with @elizabeth-walters
 
 ## Poker Solitaire
