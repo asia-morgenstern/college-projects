@@ -26,6 +26,7 @@ Implements a genetic algorithm to solve 3 optimization problems:
   <li>Solving the transcendental equation cos(x) = x</li>
   <li>Finding a root for polynomials and other transcendental equations</li>
 </ul>
+
 <em>Note:  This code (including updated versions) can be found in my <a href="https://github.com/asia-morgenstern/genetic-algorithm">genetic-algorithm</a> repo.</em>
 
 Completed in PHY 234 Computational Physics (3rd Year Fall) | Final Project
