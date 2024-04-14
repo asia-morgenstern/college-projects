@@ -41,6 +41,6 @@ Allows a user to play Sudoku.  Makes use of a Sudoku Generator/Solver provided b
 Completed in CS 152 Principles of Computer Science II (1st Year Spring) | Project 3
 
 ## Sudoku Solver
-Solves a sudoku puzzle using backtracking.  Written in Java.
+Solves a Sudoku puzzle using backtracking.  Written in Java.
 
 Completed in CS 152 Principles of Computer Science II (1st Year Spring) | Project 2
