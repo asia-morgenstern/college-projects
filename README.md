@@ -1,5 +1,5 @@
 # college-projects
-A collection of all the major coding projects I've done in my undergrad CS classes.  
+A collection of all the major coding projects I've done in my undergrad classes.  
 
 <em>Note:  There is no guarantee that code is correct.  Code uploaded is (for the most part) the code that was turned in.</em>
 
