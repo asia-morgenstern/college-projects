@@ -44,6 +44,12 @@ Allows the user to play Poker Solitaire.  Written in Java.
 
 Completed in CS 151 Principles of Computer Science I (1st Year Fall) | Homeworks 8 & 9
 
+## Pong
+Allows the user to play Pong (hours of fun).  Written in C++ with OpenGL.
+
+Completed in CS 441 Computer Graphics (3rd Year Spring) | Project 3 <br/>
+Collaborated with <a href="https://github.com/elizabeth-walters">@elizabeth-walters</a>
+
 ## Stack Implementation
 Implements a stack.  Checks if all delimiters are properly opened and closed within a given file.  Written in C++.
 
